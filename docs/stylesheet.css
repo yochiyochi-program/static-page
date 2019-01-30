@@ -1,3 +1,50 @@
-p {
-    color: red;
+body {
+    font-family: "Avenir Next";
+    margin: 0;
+}
+
+/* -------- ヘッダー --------*/
+
+.header {
+    background-color: #26d0c9;
+    height: 90px;
+}
+
+.header .logo {
+    color: #fff;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+/* -------- メイン --------*/
+
+.main {
+    padding: 20px 250px;
+}
+
+.main-title {
+    font-size: 60px;
+}
+
+.sub-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contents-item .title {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.contents-item .date {
+    font-size: 15px;
+    margin-top: 0;
+    color: #848484;
+}
+
+.like-button {
+    margin: 20px 0;
 }
