@@ -15,3 +15,13 @@ body {
     font-size: 36px;
     padding: 20px 40px;
 }
+
+/* -------- メイン --------*/
+
+.main {
+    padding: 20px 250px;
+}
+
+.main-title {
+    font-size: 60px;
+}
