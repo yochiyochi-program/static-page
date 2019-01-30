@@ -25,3 +25,11 @@ body {
 .main-title {
     font-size: 60px;
 }
+
+.sub-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
