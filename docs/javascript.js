@@ -1,1 +1,3 @@
-console.log('hello');
+function like() {
+    console.log('like!');
+}
