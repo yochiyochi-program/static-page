@@ -1,3 +1,12 @@
-p {
-    color: red;
+/* -------- ヘッダー --------*/
+
+.header {
+    background-color: #26d0c9;
+    height: 90px;
+}
+
+.header .logo {
+    color: #fff;
+    font-size: 36px;
+    padding: 20px 40px;
 }
