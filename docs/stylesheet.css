@@ -33,3 +33,14 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.contents-item .title {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.contents-item .date {
+    font-size: 15px;
+    margin-top: 0;
+    color: #848484;
+}
